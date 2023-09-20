@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+# add Weather file for hide my api key
+WeatherApi.json
