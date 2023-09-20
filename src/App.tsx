@@ -1,10 +1,11 @@
 import './App.css'
+import WeatherWidget from './components/WeatherWidget'
 
 function App() {
 
   return (
     <>
-      <h1>learn react</h1>
+      <WeatherWidget/>
     </>
   )
 }
