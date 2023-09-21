@@ -26,3 +26,4 @@ dist-ssr
 
 # add Weather file for hide my api key
 WeatherApi.json
+NewsApi.json
